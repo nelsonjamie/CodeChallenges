@@ -24,7 +24,7 @@ const opposite = (num) => {
 const oppositeNumber =(num) => {
   return(num * (-1))
 }
-        
+
 //TESTS
 // oppositeNumber(10)
 // oppositeNumber (-10)
