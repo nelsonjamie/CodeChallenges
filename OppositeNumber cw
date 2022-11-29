@@ -18,3 +18,16 @@ const opposite = (num) => {
 // opposite(4.25)
 // opposite(356)
 // opposite(-1256.76)
+
+//Other solution
+
+const oppositeNumber =(num) => {
+  return(num * (-1))
+}
+        
+//TESTS
+// oppositeNumber(10)
+// oppositeNumber (-10)
+// oppositeNumber(4.25)
+// oppositeNumber(356)
+// oppositeNumber(-1256.76)
